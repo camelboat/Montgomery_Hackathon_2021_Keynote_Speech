@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  12 JUN 2021 00:16
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  12 JUN 2021 00:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1471,18 +1471,18 @@ Missing character: There is no ; in font nullfont!
 \tf@snm=\write8
 \openout8 = `Slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 506.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 506.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 508.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 508.
  (./Slides.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 506.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 506.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 508.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 508.
 Package rerunfilecheck Info: File `Slides.out' has not changed.
 (rerunfilecheck)             Checksum: 02F94CABB75B9A1DFBB2A3DA678F2203.
  ) 
 Here is how much of TeX's memory you used:
  30811 strings out of 492916
  589404 string characters out of 6133346
- 867703 words of memory out of 5000000
+ 867719 words of memory out of 5000000
  34150 multiletter control sequences out of 15000+600000
  25136 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
