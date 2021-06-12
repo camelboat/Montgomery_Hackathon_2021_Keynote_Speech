@@ -1,0 +1,12 @@
+\frametitle{Why EE? Why CS?}
+In EE, you can learn how to manipulate the electrics physical laws and how it grows until something that can bear pure logics(Sand$\rightarrow$Instruction Code, Signal$\rightarrow$Digital Data).
+$$\downarrow$$
+\begin{lstlisting}[upquote=true]
+def main():
+  print('Hello world!')
+
+if __name__ == '__main__':
+  main()
+\end{lstlisting}
+$$\downarrow$$
+In CS, you can then learn to extend this logic and make system that is large-scale, complex, based on the human logic laws(system interfaces) instead of physical laws.
